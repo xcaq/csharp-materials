@@ -1,5 +1,5 @@
 # C# LESSONS 
-###### i dont think, that somedays this would need me, but why not?
+###### i dont think that somedays this would need me but why not?
 
 
 ### _homeworks_:
