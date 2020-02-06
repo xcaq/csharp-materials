@@ -8,4 +8,4 @@
 * [**3-homework**](https://github.com/suicidetoday/csharp-lessons/tree/master/lesson-3)
 
 ### _study materials_:
-* **oh? nothing here (〜￣ △￣)〜**
+* **ohhhh nothing here (〜￣ △￣)〜**
