@@ -7,6 +7,7 @@
 * [**2-homework**](https://github.com/suicidetoday/csharp-lessons/tree/master/lesson-2)
 * [**3-homework**](https://github.com/suicidetoday/csharp-lessons/tree/master/lesson-3)
 * [**4-homework**](https://github.com/suicidetoday/csharp-lessons/tree/master/lesson-4)
+* [**5-homework**](https://github.com/suicidetoday/csharp-lessons/tree/master/lesson-5)
 
 
 ### _study materials_:
